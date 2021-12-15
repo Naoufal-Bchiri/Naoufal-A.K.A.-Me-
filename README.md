@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TheEgzz
+- 🌱 I’m currently learning Arduino
+- 💞️ I’m looking to collaborate on Den Den Mushi (One Piece)
+- 📫 How to reach me theagzzz@gmail.com
